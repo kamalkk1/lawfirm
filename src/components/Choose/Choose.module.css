@@ -1,0 +1,42 @@
+
+.sectionContainer {
+    top: 1100px;
+    margin-top: 400px;
+    
+  }
+  
+  .bigText {
+    border-right: 1px solid #ccc;
+    padding-right: 50px;
+    font-size: larger;
+  
+  }
+.colWrapper {
+    padding-left: 100px;
+}
+.text{
+    font-size: 54px;
+}
+.section {
+    margin-top: 140px;
+
+  
+  }
+  .cardGroup{
+    padding: 2px;
+  }
+
+  .card .icon{
+    width: 101px; /* Adjust as needed */
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 1px;
+    position: relative;
+  }
+  .card{
+    width: 359px;
+height: 377px;
+
+border: solid rgba(255, 255, 255, 0.10);
+background: #1D1D1D;
+  }
